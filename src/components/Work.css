@@ -1,0 +1,30 @@
+.Work-container{
+    background-color: #ffae2e;
+    margin-bottom: 5%;
+}
+.ui.three.cards{
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.ui.card{
+    margin: 2%;
+    font-family: 'Bebas Neue', cursive;
+    width: 25%;
+    height: 90%;
+    background-color: #e6ae54ec;
+    align-self: center;
+}
+#ad{
+    font-size: 30px;
+    color: rgba(97, 96, 96, 0.678);
+    margin: 115px !important;
+}
+#image{
+    height: 275px;
+}
+#image:hover{
+    height: 300px;
+    margin-top: 0px;
+}

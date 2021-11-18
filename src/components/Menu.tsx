@@ -5,9 +5,9 @@ export default class Menu extends Component {
     render(){
         return (
             <div id="menu">
-                <a href="/Menu">Home</a>
-                <a href="/about_me">About me</a>
-                <a href="/work">Work</a>
+                <a href="/App">Home</a>
+                <a href="#AboutMe-container">About me</a>
+                <a href="#Work-container">Work</a>
                 <a href="/studies">Studies</a>
             </div>
         )

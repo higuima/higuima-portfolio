@@ -1,15 +1,17 @@
 import React from 'react';
+import AboutMe from './AboutMe';
 import './App.css';
+import BackgroundCircle from './BackgroundCircles';
 import Menu from './Menu';
+import Work from './Work';
 export default class App extends React.Component{
   render() {
     return (
       <div className="App">
+        {/* <BackgroundCircle/> */}
         <Menu/>
-        {/* <div className='App-circle top-left'></div>
-        <div className='App-circle bottom-left'></div>
-        <div className='App-circle top-right'></div>
-        <div className='App-circle bottom-right'></div> */}
+        <AboutMe/>
+        <Work/>
       </div>
     );
   }

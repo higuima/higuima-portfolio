@@ -36,30 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.App-circle{
-  width: 400px;
-  height: 400px;
-  border-radius: 250px;
-  position: fixed;
-}
-
-.top-left{
-  margin: auto -190px;
-  background-color: #ffde6f;
-}
-
-.bottom-left{
-  margin: 160px -100px;
-  background-color: #ffce29;
-}
-
-.top-right{
-  margin: 100px 700px;
-  background-color: #ffae2e;
-}
-
-.bottom-right{
-  margin: 250px 760px;
-  background-color: #e68d00;
-}
