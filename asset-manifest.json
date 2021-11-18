@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.78b119a7.chunk.css",
-    "main.js": "/static/js/main.b1624771.chunk.js",
-    "main.js.map": "/static/js/main.b1624771.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92e0534d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92e0534d.js.map",
-    "static/js/2.236869cf.chunk.js": "/static/js/2.236869cf.chunk.js",
-    "static/js/2.236869cf.chunk.js.map": "/static/js/2.236869cf.chunk.js.map",
-    "static/js/3.98fbb045.chunk.js": "/static/js/3.98fbb045.chunk.js",
-    "static/js/3.98fbb045.chunk.js.map": "/static/js/3.98fbb045.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.78b119a7.chunk.css.map": "/static/css/main.78b119a7.chunk.css.map",
-    "static/js/2.236869cf.chunk.js.LICENSE.txt": "/static/js/2.236869cf.chunk.js.LICENSE.txt"
+    "main.css": "/higuima.github.io/higuima-portfolio/static/css/main.78b119a7.chunk.css",
+    "main.js": "/higuima.github.io/higuima-portfolio/static/js/main.b1624771.chunk.js",
+    "main.js.map": "/higuima.github.io/higuima-portfolio/static/js/main.b1624771.chunk.js.map",
+    "runtime-main.js": "/higuima.github.io/higuima-portfolio/static/js/runtime-main.90c47576.js",
+    "runtime-main.js.map": "/higuima.github.io/higuima-portfolio/static/js/runtime-main.90c47576.js.map",
+    "static/js/2.236869cf.chunk.js": "/higuima.github.io/higuima-portfolio/static/js/2.236869cf.chunk.js",
+    "static/js/2.236869cf.chunk.js.map": "/higuima.github.io/higuima-portfolio/static/js/2.236869cf.chunk.js.map",
+    "static/js/3.98fbb045.chunk.js": "/higuima.github.io/higuima-portfolio/static/js/3.98fbb045.chunk.js",
+    "static/js/3.98fbb045.chunk.js.map": "/higuima.github.io/higuima-portfolio/static/js/3.98fbb045.chunk.js.map",
+    "index.html": "/higuima.github.io/higuima-portfolio/index.html",
+    "static/css/main.78b119a7.chunk.css.map": "/higuima.github.io/higuima-portfolio/static/css/main.78b119a7.chunk.css.map",
+    "static/js/2.236869cf.chunk.js.LICENSE.txt": "/higuima.github.io/higuima-portfolio/static/js/2.236869cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92e0534d.js",
+    "static/js/runtime-main.90c47576.js",
     "static/js/2.236869cf.chunk.js",
     "static/css/main.78b119a7.chunk.css",
     "static/js/main.b1624771.chunk.js"
