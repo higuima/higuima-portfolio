@@ -1,6 +1,7 @@
 {
   "name": "higuima-portfolio",
   "version": "0.1.0",
+  "homepage": "higuima.github.io/higuima-portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
