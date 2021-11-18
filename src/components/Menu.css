@@ -1,0 +1,12 @@
+#menu{
+    margin: 50px;
+    text-align: center;
+    background-color: #ffde5950;
+}
+#menu>a{
+    font-family: 'Bebas Neue', cursive;
+    color: #ffde59;
+    font-size: 50px;
+    margin: 50px 40px;
+    text-decoration: none;
+}
