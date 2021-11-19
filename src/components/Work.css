@@ -1,6 +1,14 @@
 .Work-container{
     background-color: #ffae2e;
     margin-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Work-container>h1{
+    color: rgb(97, 96, 96);
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
 }
 .ui.three.cards{
     height:auto;
@@ -14,6 +22,7 @@
     width: 25%;
     height: 90%;
     background-color: #e6ae54ec;
+    background-image: url('./panorama-black-stone-brick-texture-260nw-1109089712.jpg');
     align-self: center;
 }
 #ad{
