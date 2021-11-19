@@ -1,0 +1,17 @@
+.Phrase-container{
+    width: 100wh;
+    margin: 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Phrase-container>h1{
+    color: honeydew;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px;
+}
+
+.Phrase-container>p{
+    color: honeydew;
+    font-size: 20px;
+}
