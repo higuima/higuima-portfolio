@@ -4,16 +4,30 @@
 }
 #content{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+}
+
+.image{
+    padding: 2%;
+    border-radius: 300px;
+    margin: 5%;
+    height: 45vh;
+    background-image: url('./panorama-black-stone-brick-texture-260nw-1109089712.jpg');
+}
+
+.image>img{
+    height: 45vh;
+    border-radius: 150px;
 }
 #text{
+    display: flex;
+    flex-direction: column;
     margin: 30px 50px;
 }
 #text>h1{
     font-family: 'Bebas Neue', cursive;
     color: rgb(97, 96, 96);
     font-size: 40px;
-    text-indent: 35px;
 }
 #text>p{
     text-indent: 25px;

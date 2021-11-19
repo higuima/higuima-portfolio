@@ -6,6 +6,7 @@ export default class Menu extends Component {
     render(){
         return (
             <div  className="Work-container" id="Work-container">
+              <h1>Projects and websites I've published:</h1>
               <div className="ui three cards">
                 <div className="ui card">
                   <div className="content">
